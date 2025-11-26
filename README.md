@@ -15,7 +15,7 @@ A IA identifica o produto com precisão e inicia automaticamente a busca por pre
 A análise cruza informações de centenas de e-commerces confiáveis, filtrando valores fora da média para garantir uma estimativa precisa.
 
 ### ⚡ Resposta Imediata
-Todo o processo — da identificação até a precificação — acontece em **menos de 5 segundos**, dependendo do dispositivo.
+Todo o processo da identificação até a precificação acontece em **menos de 5 segundos**, dependendo do dispositivo.
 
 ---
 
