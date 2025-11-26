@@ -1,7 +1,7 @@
 # 📸 PreçoJá – IA para Identificação de Produtos e Estimativa de Preço
 
 O **PreçoJá** é uma aplicação moderna que utiliza **Visão Computacional** e **Inteligência Artificial** para identificar produtos a partir de imagens e calcular o **preço médio de mercado** em segundos.  
-A plataforma foi projetada para ser rápida, intuitiva e confiável — ideal para compradores, revendedores, empreendedores e qualquer pessoa que queira descobrir o valor de um item sem complicação.
+A plataforma foi projetada para ser rápida, intuitiva e confiável. Ideal para compradores, revendedores, empreendedores e qualquer pessoa que queira descobrir o valor de um item sem complicação.
 
 ---
 
