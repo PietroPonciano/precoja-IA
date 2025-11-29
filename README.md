@@ -32,20 +32,6 @@ Todo o processo da identificação até a precificação acontece em **menos de 
 
 ---
 
-## 🧠 Tecnologia por Trás da Precisão
-
-A página conta com uma seção dedicada às tecnologias empregadas:
-
-- ⚡ **Processamento Ultrarrápido**  
-  Pipeline otimizado para detectar o item e pesquisar o preço em segundos.
-
-- 🗄️ **Big Data de Preços**  
-  Histórico e banco de dados amplo garantindo maior precisão.
-
-- 🪙 **Estimativa Realista**  
-  Média ponderada com base em valores reais do mercado.
-
----
 
 ## 📝 Como funciona (Passo a Passo)
 
